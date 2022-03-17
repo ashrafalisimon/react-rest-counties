@@ -1,0 +1,22 @@
+
+.country-info{
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 20px;
+}
+.country-info img{
+    width: 150px;
+    height: 80px;
+}
+.country-info h4{
+    font-size: 23px;
+    font-weight: 700;
+}
+.country-info p{
+    font-style: italic;
+    font-size: 18px;
+}
+p, h2, h1, h3, h4,h5{
+    margin: 0 ;
+    padding: 0;
+}

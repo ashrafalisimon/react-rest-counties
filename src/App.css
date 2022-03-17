@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+span{
+  color: goldenrod;
+  font-size: 24px;
+}
+.img-size{
+    width: 150px;
+    height: 90px;
+}
